@@ -67,14 +67,4 @@ Bachelor of Engineering – Computer Science
 ## 🌐 Connect With Me
 
 LinkedIn  
-https://linkedin.com/in/sanchitathayagaranReact + Django + PostgreSQL + AWS SNS  
-
-Industry 4.0 Healthcare Research  
-Topic Modeling + NLP  
-
----
-
-### 🌐 Connect With Me
-
-LinkedIn  
-www.linkedin.com/in/sanchitathayagaran
+https://linkedin.com/in/sanchitathayagaran
