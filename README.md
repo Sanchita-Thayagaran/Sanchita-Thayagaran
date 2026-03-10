@@ -1,16 +1,41 @@
-## Hi there 👋
+<h1 align="center">Hi 👋 I'm Sanchita</h1>
 
-<!--
-**Sanchita-Thayagaran/Sanchita-Thayagaran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+MS Computer Science @ UMass Amherst  
+Software Engineer • Site Reliability • Backend Systems
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👩‍💻 About Me
+
+• 2+ years Software Engineering & SRE experience at Morgan Stanley  
+• Currently pursuing MS in Computer Science at UMass Amherst  
+• Interested in distributed systems, infrastructure, reliability engineering  
+
+---
+
+### 🚀 Tech Stack
+
+Python • Java • C++ • JavaScript  
+React • Angular • Django  
+AWS • Linux • Jenkins  
+Grafana • Splunk • ELK  
+PostgreSQL • Git
+
+---
+
+### 📌 Projects
+
+Apollo Healthcare Management System  
+React + Django + PostgreSQL + AWS SNS  
+
+Industry 4.0 Healthcare Research  
+Topic Modeling + NLP  
+
+---
+
+### 🌐 Connect With Me
+
+LinkedIn  
+www.linkedin.com/in/sanchitathayagaran
