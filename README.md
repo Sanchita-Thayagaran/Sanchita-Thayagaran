@@ -26,27 +26,14 @@ Grafana • Splunk • ELK • PostgreSQL
 
 ## 🚀 Projects
 
-### Healthcare Systems
-• Apollo Healthcare Management System – React, Django, PostgreSQL, AWS SNS  
+### Software Engineering - Healthcare Systems
+• Apollo Healthcare Management System – React, Django, PostgreSQL, AWS SNS, JUnit, Java, Software Testing  
 
 ### Research & NLP
-• Industry 4.0 Healthcare Research Mapping – Topic Modeling, NLP, Python  
-
-### Software Engineering
-• Expense Tracker Testing Framework – JUnit, Java, Software Testing  
+• Industry 4.0 Healthcare Research Mapping – Topic Modeling, NLP, Python 
 
 ### Machine Learning
-• Multimodal MNIST Fusion Models – PyTorch, Deep Learning  
-• Fraud Detection Model – Machine Learning, Large-scale Transaction Data  
-
-### Security & Networking
-• ARP Cache Poisoning Attack Lab – Network Security  
-• DNS Spoofing Attack Lab – Network Security  
-• TLS Wireshark Analysis – Packet Inspection & TLS Protocol Study  
-
-### Optimization & Algorithms
-• Polynomial Regression Optimization – Python, Optimization Methods  
-• Gradient Descent / Convex Optimization Experiments  
+• Credit Card Fraud Detection Model – Machine Learning, Large-scale Transaction Data 
 
 ### Systems & Infrastructure
 • SRE Automation Scripts – Python, Bash, Linux Automation  
